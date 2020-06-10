@@ -22,6 +22,7 @@ sections:
     - infopic:
         title: Our Partners
         image: /images/bettrbarista-logo.png
+        alt: Better Barista Logo
     - resources:
         title: Media
         subtitle: Learn more
