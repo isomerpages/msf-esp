@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/esp-logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -14,11 +14,11 @@ sections:
         url: /contact-us/
         key_highlights:
             - title: Find a programme
-              description: Important highlight A is important
+              description: You can also search for agencies
               url: https://google.com
             - title: Enquiry Form
-              description: Important highlight B is equally important
-              url: https://gmail.com
+              description: If you have questions regarding ESP, please fill in the form below.
+              url: https://google.com
     - infobar:
         title: Infobar title
         subtitle: Subtitle
@@ -29,4 +29,5 @@ sections:
         title: Media
         subtitle: Learn more
         button: View More
+
 ---
