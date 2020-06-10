@@ -13,21 +13,21 @@ sections:
             title: I want to...
             options:
             - title: find a programme
-              url: https://google.com
+              url: /programmes/hatch
             - title: become a partner
               url: /programmes/hatch
         key_highlights:
             - title: Find a programme
               description: You can also search for agencies
-              url: https://google.com
+              url: /programmes/hatch
             - title: Enquiry Form
               description: You can contact us if you would like to become a ESP
-              url: https://google.com
+              url: /programmes/hatch
     - infopic:
         subtitle: Our Partners
         description: Start a meaningful partnership with us
         button: Join Us
-        url: https://google.com
+        url: /programmes/hatch
         image: /images/partners-banner.png
         alt: Partners banner        
         
