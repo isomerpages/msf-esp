@@ -27,9 +27,7 @@ Specific sectors:
 * Laptops will be loaned
 
 **Contact**
-| Email      | Contact Number |
-| ----------- | ----------- |
-| <victor_zhu@u.nus.edu> | 82826258 |
+<victor_zhu@u.nus.edu>  82826258
 
 **Upcoming Intakes**
 * Upcoming project: 15 June till 7 August (Details will be sent out from mid-Apr onwards)
