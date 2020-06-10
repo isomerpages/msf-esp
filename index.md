@@ -19,7 +19,7 @@ sections:
             - title: Enquiry Form
               description: Important highlight B is equally important
               url: https://gmail.com
-<!--    - infobar:
+    - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
@@ -28,5 +28,5 @@ sections:
     - resources:
         title: Media
         subtitle: Learn more
-        button: View More -->
+        button: View More
 ---
