@@ -19,10 +19,14 @@ sections:
             - title: Enquiry Form
               description: You can contact us if you would like to become a ESP
               url: https://google.com
-    - infopic:
+    - infobar:
         subtitle: Our Partners
-        image: /images/bettrbarista-logo.png
-        image: /images/ymca-logo.png
+	    	<div>
+	    		<img src="{{site.baseurl}}/images/bettrbarista-logo.png" alt="Board of Architects"/>
+	    		<img src="{{site.baseurl}}/images/ymca-logo.svg" alt="GovTech Singapore"/>
+	    		<img src="{{site.baseurl}}/images/sportcares-logo.svg" alt="Hotels Licensing Board"/>
+	    	</div>
+
     - resources:
         title: Media
         subtitle: Learn more
