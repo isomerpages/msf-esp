@@ -19,9 +19,10 @@ sections:
             - title: Enquiry Form
               description: You can contact us if you would like to become a ESP
               url: https://google.com
-    - infobar:
+    - infopic:
         subtitle: Our Partners
         image: /images/bettrbarista-logo.png
+        image: /images/ymca-logo.png
     - resources:
         title: Media
         subtitle: Learn more
