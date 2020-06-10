@@ -15,7 +15,7 @@ sections:
             - title: find a programme
               url: https://google.com
             - title: become a partner
-            url: https://google.com
+              url: https://google.com
         key_highlights:
             - title: Find a programme
               description: You can also search for agencies
