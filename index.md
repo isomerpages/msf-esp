@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Employment Service Providers
         subtitle: A centralised directory for employment supprt for youths
-        background: /images/hero-banner.png
+        background: /images/job-and-careers-banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
