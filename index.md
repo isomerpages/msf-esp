@@ -21,7 +21,9 @@ sections:
               url: https://google.com
     - infobar:
         subtitle: Our Partners
-        <img src=/images/ymca-logo.png/> <img src="/images/bettrbarista.png/> 
+        description: Start a meaningful partnership with us!
+        button: Join Us
+        url:https://google.com
     - resources:
         title: Media
         subtitle: Learn more
