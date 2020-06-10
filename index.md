@@ -19,7 +19,7 @@ sections:
             - title: Enquiry Form
               description: You can contact us if you would like to become a ESP
               url: https://google.com
-    - infobar:
+    - hero:
         subtitle: Our Partners
         description: Start a meaningful partnership with us
         background: /images/partners-banner.png
