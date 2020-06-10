@@ -9,6 +9,11 @@ sections:
         title: Employment Service Providers
         subtitle: A centralised directory for employment support for youths
         background: /images/jobs-and-careers-banner.jpg 
+        dropdown:
+            title: I want to...
+            options:
+            - title: find a programme
+            - title: become a partner
         key_highlights:
             - title: Find a programme
               description: You can also search for agencies
@@ -17,11 +22,12 @@ sections:
               description: You can contact us if you would like to become a ESP
               url: https://google.com
     - infopic:
-        title: Our Partners
-        subtitle: Start a meaningful partnership with us
-        background: /images/partners-banner.png
+        subtitle: Our Partners
+        description: Start a meaningful partnership with us
         button: Join Us
         url: https://google.com
+        image: /images/partners-banner.png
+        alt: Partners banner        
     - resources:
         title: Media
         subtitle: Learn more
