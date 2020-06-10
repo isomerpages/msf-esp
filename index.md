@@ -20,11 +20,11 @@ sections:
               description: If you have questions regarding ESP, please fill in the form below.
               url: https://google.com
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        subtitle: Our Partners
+        image: /images/bettrbarista-logo.png
+        image: /images/ymca-logo.png
+        image: /images/sportcares-logo.png
+
     - resources:
         title: Media
         subtitle: Learn more
