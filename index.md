@@ -30,9 +30,5 @@ sections:
         url: https://google.com
         image: /images/partners-banner.png
         alt: Partners banner        
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
-
+        
 ---
