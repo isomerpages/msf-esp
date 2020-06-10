@@ -17,7 +17,7 @@ sections:
               description: You can also search for agencies
               url: https://google.com
             - title: Enquiry Form
-              description: If you have questions regarding ESP, please fill in the form below.
+              description: You can contact us if you would like to become a ESP
               url: https://google.com
     - infobar:
         subtitle: Our Partners
