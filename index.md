@@ -24,7 +24,6 @@ sections:
         image: /images/bettrbarista-logo.png
         image: /images/ymca-logo.png
         image: /images/sportcares-logo.png
-
     - resources:
         title: Media
         subtitle: Learn more
