@@ -19,8 +19,9 @@ sections:
             - title: Enquiry Form
               description: You can contact us if you would like to become a ESP
               url: https://google.com
-    - infobar:
-        subtitle: Our Partners
+    - infopic:
+        title: Our Partners
+        image: /images/bettrbarista-logo.png
     - resources:
         title: Media
         subtitle: Learn more
