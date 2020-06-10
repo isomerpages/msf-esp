@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Employment Service Providers
+description: Employment Support Service Providers (ESSP) are Social Service Agencies (SSA) which provide employment support such as vocational skills training and employment assistance to our youths
 image: /images/esp-logo.png
 permalink: /
 notification: Here's a notification bar you can use!
