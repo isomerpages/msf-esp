@@ -5,7 +5,7 @@ permalink: /programmes/hatch/
 
 **Programme Name**
 
-4 months vocational training programme; 1 month skills training; 3 months job placement
+Project Hatch (4 months vocational training programme; 1 month skills training; 3 months job placement)
 
 Specific sectors:
 1. User Interface (UI) sector
