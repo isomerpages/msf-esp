@@ -27,6 +27,7 @@ Specific sectors:
 * Laptops will be loaned
 
 **Contact**
+
 <victor_zhu@u.nus.edu>  82826258
 
 **Upcoming Intakes**
