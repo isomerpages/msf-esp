@@ -4,14 +4,11 @@ title: Employment Service Providers
 description: Employment Support Service Providers (ESSP) are Social Service Agencies (SSA) which provide employment support such as vocational skills training and employment assistance to our youths
 image: /images/esp-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Employment Service Providers
         subtitle: A centralised directory for employment support for youths
         background: /images/jobs-and-careers-banner.jpg 
-        button: Contact Us
-        url: /contact-us/
         key_highlights:
             - title: Find a programme
               description: You can also search for agencies
@@ -20,8 +17,8 @@ sections:
               description: You can contact us if you would like to become a ESP
               url: https://google.com
     - hero:
-        subtitle: Our Partners
-        description: Start a meaningful partnership with us
+        title: Our Partners
+        subtitle: Start a meaningful partnership with us
         background: /images/partners-banner.png
         button: Join Us
         url: https://google.com
