@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Employment Service Providers
-        subtitle: A centralised directory for employment supprt for youths
+        subtitle: A centralised directory for employment support for youths
         background: /images/jobs-and-careers-banner.jpg 
         button: Contact Us
         url: /contact-us/
