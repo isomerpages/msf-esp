@@ -21,7 +21,8 @@ sections:
               url: https://google.com
     - infobar:
         subtitle: Our Partners
-        description: Start a meaningful partnership with us!
+        description: Start a meaningful partnership with us
+        background: /images/partners-banner.png
         button: Join Us
         url: https://google.com
     - resources:
