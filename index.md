@@ -21,12 +21,6 @@ sections:
               url: https://google.com
     - infobar:
         subtitle: Our Partners
-	    	<div>
-	    		<img src="{{site.baseurl}}/images/bettrbarista-logo.png" alt="Board of Architects"/>
-	    		<img src="{{site.baseurl}}/images/ymca-logo.svg" alt="GovTech Singapore"/>
-	    		<img src="{{site.baseurl}}/images/sportcares-logo.svg" alt="Hotels Licensing Board"/>
-	    	</div>
-
     - resources:
         title: Media
         subtitle: Learn more
