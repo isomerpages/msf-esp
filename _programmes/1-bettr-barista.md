@@ -18,7 +18,7 @@ Bettr Barista Holistic Training Programme (4 months vocational training programm
 
 **Fees**
 * $300 (subsidized based on income level <$1,700)
-> Paid up to S$1,2000/month while on the job
+* Paid up to S$1,2000/month while on the job
 
 **Contact**
 
