@@ -23,7 +23,7 @@ sections:
         subtitle: Our Partners
         description: Start a meaningful partnership with us!
         button: Join Us
-        url:https://google.com
+        url: https://google.com
     - resources:
         title: Media
         subtitle: Learn more
