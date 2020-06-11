@@ -15,10 +15,6 @@ locations:
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
     maps_link: https://goo.gl/maps/5ABnqSdbTzbzPdQG9
 contacts:
   - title: General Enquiries & Feedback
