@@ -3,6 +3,8 @@ title: Hatch
 permalink: /programmes/hatch/
 ---
 
+![Hatch-logo](/images/hatch-logo.png)
+
 **Programme Name**
 
 Project Hatch (4 months vocational training programme; 1 month skills training; 3 months job placement)
@@ -26,18 +28,9 @@ Specific sectors:
 * NIL
 * Laptops will be loaned
 
-**Contact**
-
-<table>
-  <tr>
-    <th>Email</th>
-    <th>Contact Number</th>
-  </tr>
-  <tr>
-    <td>victor_zhu@u.nus.sg</td>
-    <td>82826258</td>
-  </tr>
-</table>
+**Register**
+[Get in touch here](https://www.hatch.sg/contact)
 
 **Upcoming Intakes**
 * Upcoming project: 15 June till 7 August (Details will be sent out from mid-Apr onwards)
+
