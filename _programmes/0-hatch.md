@@ -28,9 +28,7 @@ Specific sectors:
 * NIL
 * Laptops will be loaned
 
-**Register**
-[Get in touch here](https://www.hatch.sg/contact)
-
 **Upcoming Intakes**
 * Upcoming project: 15 June till 7 August (Details will be sent out from mid-Apr onwards)
 
+[Get in touch here](https://www.hatch.sg/contact)
