@@ -36,5 +36,5 @@ sections:
         button: Start here
         url: /programmes/hatch
         image: /images/programmes-banner.png
-        alt: Prograrmmes banner          
+        alt: Programmes banner          
 ---
