@@ -15,19 +15,19 @@ sections:
             - title: find a programme
               url: /programmes/hatch
             - title: become a partner
-              url: /programmes/hatch
+              url: https://form.gov.sg/5ee1e9ddf9e86900114cd471
         key_highlights:
             - title: Find a programme
               description: You can also search for agencies
               url: /programmes/hatch
             - title: Enquiry Form
               description: You can contact us if you would like to become a ESP
-              url: /programmes/hatch
+              url: https://form.gov.sg/5ee1e9ddf9e86900114cd471
     - infopic:
         subtitle: Our Partners
         description: Start a meaningful partnership with us
         button: Join Us
-        url: /programmes/hatch
+        url: https://form.gov.sg/5ee1e9ddf9e86900114cd471
         image: /images/partners-banner.png
         alt: Partners banner        
         
