@@ -3,7 +3,7 @@ title: Hatch
 permalink: /programmes/hatch/
 ---
 
-![Hatch-logo](/images/hatch-logo.png)
+![Hatch-logo](/images/hatch-logo.jpg)
 
 **Programme Name**
 
