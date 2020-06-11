@@ -25,6 +25,5 @@ contacts:
     content:
     - phone: +65 6123 4567
     - email: enquiries@oscar.gov.sg
-    - feedback: https://form.gov.sg/5ee1e9ddf9e86900114cd471
-
+    
 ---
