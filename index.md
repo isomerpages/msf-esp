@@ -30,11 +30,11 @@ sections:
         url: https://form.gov.sg/5ee1e9ddf9e86900114cd471
         image: /images/partners-banner.png
         alt: Partners banner        
-   - infopic:
+    - infopic:
         subtitle: Require employment support?
         description: Get vocational skills training and employment assistance
         button: Start here
         url: /programmes/hatch
         image: /images/programmes-banner.png
-        alt: Programmes banner          
+        alt: Programmes banner  
 ---
