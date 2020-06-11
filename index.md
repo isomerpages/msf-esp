@@ -24,17 +24,18 @@ sections:
               description: You can contact us if you would like to become a ESP
               url: https://form.gov.sg/5ee1e9ddf9e86900114cd471
     - infopic:
-        subtitle: Looking to become Our Partners?
-        description: Start a meaningful partnership with us
+        title: Require employment support?
+        subtitle: Get vocational skills training and employment assistance
+        button: Start here
+        url: /programmes/hatch
+        image: /images/programmes-banner.png
+        alt: Programmes banner                
+    - infopic:
+        title: Looking to become Our Partners?
+        subtitle: Start a meaningful partnership with us
         button: Join Us
         url: https://form.gov.sg/5ee1e9ddf9e86900114cd471
         image: /images/partners-banner.png
         alt: Partners banner        
-    - infopic:
-        subtitle: Require employment support?
-        description: Get vocational skills training and employment assistance
-        button: Start here
-        url: /programmes/hatch
-        image: /images/programmes-banner.png
-        alt: Programmes banner  
+
 ---
