@@ -8,7 +8,7 @@ sections:
     - hero:
         title: Employment Service Providers
         subtitle: A centralised directory for employment support for youths
-        background: /images/jobs-and-careers-banner.jpg 
+        background: /images/hero-banner.png 
         dropdown:
             title: I want to...
             options:
