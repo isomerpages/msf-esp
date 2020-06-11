@@ -7,9 +7,9 @@ permalink: /programmes/hatch/
 
 **Programme Name**
 
-Project Hatch (4 months vocational training programme; 1 month skills training; 3 months job placement)
+Project Hatch offers 4 months vocational training programme, 1 month skills training and 3 months job placement
 
-Specific sectors:
+**Specific sectors:**
 1. User Interface (UI) sector
 2. User Experience (UE) sector
 3. Web Design sector
@@ -25,10 +25,9 @@ Specific sectors:
 * Interested in IT/Design
 
 **Fees**
-* NIL
-* Laptops will be loaned
+* NIL; Laptops will be loaned
 
 **Upcoming Intakes**
 * Upcoming project: 15 June till 7 August (Details will be sent out from mid-Apr onwards)
 
-[Get in touch here](https://www.hatch.sg/contact)
+[More details at Hatch](https://www.hatch.sg/)
