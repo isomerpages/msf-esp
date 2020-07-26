@@ -26,3 +26,5 @@ Bettr Barista Holistic Training Programme offers a 4 months vocational training 
 * Commencement date: 4 May 2020, Closing date for application: 13 April 2020
 
 [More details at Bettr Barista](https://www.bettrbarista.com/w/sg/)
+
+[Download program flyer](/brochures/bettr-flyer.pdf)
