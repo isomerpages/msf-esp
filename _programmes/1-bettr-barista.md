@@ -27,4 +27,4 @@ Bettr Barista Holistic Training Programme offers a 4 months vocational training 
 
 [More details at Bettr Barista](https://www.bettrbarista.com/w/sg/)
 
-[Download program flyer](/brochures/bettr-flyer.pdf)
+[Download program flyer](/documents/bettr-flyer.pdf)
