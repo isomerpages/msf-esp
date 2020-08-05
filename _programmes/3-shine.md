@@ -2,7 +2,7 @@
 title: Shine
 permalink: /programmes/shine/
 ---
-![Shine-logo](Shine-logo.jpg)
+![Shine logo](Shine-logo.jpg)
 
 **Programme Name**
 
