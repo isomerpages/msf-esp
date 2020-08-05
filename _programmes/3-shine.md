@@ -47,6 +47,3 @@ Youth FORTE
 **Enquiries** 
 * Contact Ms Irnina Wong, Senior Social Worker / Program Lead at irnina_wong@shine.org.sg or 8788 3188. 
 
-[More details at Bettr Barista](https://www.bettrbarista.com/w/sg/)
-
-[Download program flyer](/documents/bettr-flyer.pdf)
