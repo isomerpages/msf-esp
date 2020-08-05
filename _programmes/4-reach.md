@@ -29,7 +29,7 @@ Youth Employment Enrichment Training (YEET)
 **Upcoming Intakes**
 * Ongoing 
 
-* Enquiries* 
+**Enquiries** 
 Contact Nicholas at 91136598 / nicholas.cheang@reach.org.sg or Frances at 96990368 / frances.lian@reach.org.sg. 
 
 
